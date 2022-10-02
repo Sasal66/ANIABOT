@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
-global.packname = 'Sticker  Naze'
-global.author = 'Naze'
+global.owner = ['6281321776496']
+global.ownernomer = "6281321776496"
+global.premium = ['6281321776496']
+global.packname = 'Sticker  Defan'
+global.author = 'ANIABOT'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.prefa = ['','!','.','#','&']
 global.sp = ''
@@ -43,7 +43,7 @@ global.limitawal = {
     premium: "Infinity",
     free: 25
 }
-global.thumb = fs.readFileSync('./image/naze.jpg')
+global.thumb = fs.readFileSync('.ythumb.jpeg')
 global.vaze = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
 
 let file = require.resolve(__filename)
